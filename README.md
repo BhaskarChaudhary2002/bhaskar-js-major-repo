@@ -21,3 +21,7 @@ A wrong click ends the game, and the score is displayed.
 ## Screenshots
 
 **Game Start Screen**
+<img scr="Screenshot (110).png">
+
+**Game Over Screen**
+<img sec="Screenshot (111).png">
