@@ -21,7 +21,18 @@ A wrong click ends the game, and the score is displayed.
 ## Screenshots
 
 **Game Start Screen**
-<img scr="Screenshot (110).png">
+<img src="Screenshot (110).png">
 
 **Game Over Screen**
-<img sec="Screenshot (111).png">
+<img src="Screenshot (111).png">
+
+
+---
+
+# Technologies Used
+
+HTML5
+
+CSS3
+
+JavaScript
